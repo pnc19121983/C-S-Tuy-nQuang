@@ -50,6 +50,7 @@ if selected == "dungchung":
 - [Ứng dụng AI trong giảng dạy Đại học RMIT](https://www.youtube.com/watch?v=4f0kIVRZVn0&t=4950s) 
 - [Ứng dụng AI trong thiết kế bài giảng STEM](https://www.youtube.com/watch?v=R53xuJG5xkk) 
 - [Vận dụng AI và sử dụng đồ dùng dạy học, học liệu để xây dựng kế hoạch giáo dục STEM](https://www.youtube.com/watch?v=LeWe0b23CCg) 
+- [Prompt cơ bản cho người mới bắt đầu](https://docs.google.com/document/d/1qsz5tPttuDXoNSgzsyZ8sJhqTFZ-Vndd/edit?usp=drive_link&ouid=101989985365170136492&rtpof=true&sd=true) 
 """)
 
 
