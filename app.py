@@ -46,6 +46,7 @@ if selected == "dungchung":
 - [Chatbot: Tìm hiểu các Thông tư 09, 10, 11, 12, 13/2025 của Bộ GDĐT](https://chatgpt.com/g/g-687f7c5a432081919eb9bbec42354b31-tim-hieu-thong-tu-09-10-11-12-13-2025-cua-bo-gddt)
 - [Tài liệu hướng dẫn giáo viên tích hợp sử dụng AI trong dạy học](https://byvn.net/pqqR) 
 - [Video bài giảng “Làm chủ AI - Trở thành Super Teacher” do Đại học Bách khoa Hà Nội và Công ty TNHH STEAM for Vietnam đồng tổ chức](https://www.youtube.com/watch?v=5l4Uis5xzvc)                 
+- [Ứng dụng AI trong tạo ảnh và video bài giảng](https://www.youtube.com/watch?v=uQ6URlXLGQA&list=PLKJ7b9uOx27YrBfRzC-Wz6GpvVmZlI-hz&index=4) 
 """)
 
 
