@@ -51,6 +51,7 @@ if selected == "dungchung":
 - [Ứng dụng AI trong thiết kế bài giảng STEM](https://www.youtube.com/watch?v=R53xuJG5xkk) 
 - [Vận dụng AI và sử dụng đồ dùng dạy học, học liệu để xây dựng kế hoạch giáo dục STEM](https://www.youtube.com/watch?v=LeWe0b23CCg) 
 - [Prompt cơ bản cho người mới bắt đầu](https://docs.google.com/document/d/1qsz5tPttuDXoNSgzsyZ8sJhqTFZ-Vndd/edit?usp=drive_link&ouid=101989985365170136492&rtpof=true&sd=true) 
+- [Hướng dẫn xuất file word không bị lỗi công thức toán](https://drive.google.com/file/d/1VDJX4O23MgZNZ96N1ewXQQqaqm_Ae1ke/view?usp=sharing) 
 """)
 
 
