@@ -73,8 +73,8 @@ elif selected == "mn":
     st.markdown("""
     - [Chatbot: Cô giáo mầm non](https://notebooklm.google.com/notebook/44149ea2-baf4-468b-8f70-fcdc48cd407c)  
     - [Chatbot: Hiệu trưởng mầm non](https://notebooklm.google.com/notebook/72ffe0d3-88cd-4eec-8758-dde7b112393b) 
-    - ..........  
-    - ..........
+    - [Chatbot: Trợ lý phương pháp dạy học](https://chatgpt.com/g/g-68479847d1a08191aeda9b517a389605-tro-ly-ve-phuong-phap-day-hoc)  
+    - [Chatbot: Trợ lý soạn thảo văn bản](https://chatgpt.com/g/g-6846ecf00fac8191b427451f7e55437e-tro-ly-soan-thao-van-ban) 
     """)
 
 elif selected == "th":
