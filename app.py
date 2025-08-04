@@ -98,9 +98,11 @@ elif selected == "thpt":
     st.header("📕 Dạy học cấp THPT")
     st.markdown("""
     - [iTeX: Phần mềm tự động tạo câu hỏi ngẫu nhiên môn Toán](https://www.youtube.com/@iTeX-Teams)  
-    - ..........
-    - ..........  
-    - ..........  
+    - [Chatbot: Học sinh giỏi môn Tin học](https://chatgpt.com/g/g-688b68637db88191a7537adc8b4fe755-tro-ly-tin-hoc-hsg)  
+    - [Chatbot: Học sinh giỏi môn Hóa học](https://chatgpt.com/g/g-688c16e1f338819198735dbadab0bb0b-tro-ly-hoa-hoc-chuyen-sau)   
+    - [Chatbot: Học sinh giỏi môn Toán](https://chatgpt.com/g/g-688c7ff0165081919d6ebf35f7c7540b-on-luyen-hoc-sinh-gioi-quoc-gia-toan)    
+    - [Chatbot: Học sinh giỏi môn Vật lí](https://chatgpt.com/g/g-688c88527ff081918a9a747c0597212f-tro-ly-vat-ly-chuyen-sau-bdhsgqg)  
+    - [Chatbot: Học sinh giỏi môn Sinh học](https://chatgpt.com/g/g-688c894c97b48191bca4aaf2aef38510-sinh-hoc-hsg-quoc-gia-ai-tutor) 
     """)
 
 elif selected is None:
