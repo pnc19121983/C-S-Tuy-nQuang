@@ -53,6 +53,7 @@ if selected == "dungchung":
 - [Prompt cơ bản cho người mới bắt đầu](https://docs.google.com/document/d/1qsz5tPttuDXoNSgzsyZ8sJhqTFZ-Vndd/edit?usp=drive_link&ouid=101989985365170136492&rtpof=true&sd=true) 
 - [Hướng dẫn xuất file word không bị lỗi công thức toán](https://drive.google.com/file/d/1VDJX4O23MgZNZ96N1ewXQQqaqm_Ae1ke/view?usp=sharing) 
 - [Hướng dẫn Tạo trò chơi củng cố kiến thức sau mỗi bài học](https://docs.google.com/document/d/1rk5SKak_MKnhiJ95rY9kJ5R-z_0ZWdMP/edit?usp=sharing&ouid=101989985365170136492&rtpof=true&sd=true) 
+- [Tạo hình 3D có thể zoom, xoay](https://drive.google.com/file/d/1Besc2TaKXbExLphq8QGRwjMfzESblTK3/view?usp=drive_link) 
 """)
 
 
@@ -75,6 +76,14 @@ elif selected == "mn":
     - [Chatbot: Hiệu trưởng mầm non](https://notebooklm.google.com/notebook/72ffe0d3-88cd-4eec-8758-dde7b112393b) 
     - [Chatbot: Trợ lý phương pháp dạy học](https://chatgpt.com/g/g-68479847d1a08191aeda9b517a389605-tro-ly-ve-phuong-phap-day-hoc)  
     - [Chatbot: Trợ lý soạn thảo văn bản](https://chatgpt.com/g/g-6846ecf00fac8191b427451f7e55437e-tro-ly-soan-thao-van-ban) 
+    - [Kỹ năng chung tay bảo vệ môi trường](https://www.youtube.com/watch?v=OAi-52MPGN4&feature=youtu.be) 
+    - [Kỹ năng Dũng cảm nói ra sự thật](https://www.youtube.com/watch?v=aEhupj_3KYk) 
+    - [Làm quen chũ cái o](https://www.youtube.com/watch?v=KRx1IubT2_Y&pp=0gcJCa0JAYcqIYzv)      
+    - [Thơ Dán hoa tặng mẹ](https://github.com/mamnonphulam/PhuLam-school/issues/6)  
+    - [Thơ Bác Bầu bác Bí](https://github.com/mamnonphulam/PhuLam-school/issues/5)     
+    - [Thơ Thăm nhà bà](https://github.com/mamnonphulam/PhuLam-school/issues/4)       
+    - [Thơ Xe chữa cháy](https://github.com/mamnonphulam/PhuLam-school/issues/3)    
+    - [Thơ em yêu nhà em](https://github.com/mamnonphulam/PhuLam-school/issues/2)                 
     """)
 
 elif selected == "th":
