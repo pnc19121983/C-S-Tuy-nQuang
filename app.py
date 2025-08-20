@@ -95,7 +95,11 @@ elif selected == "mn":
     - [Truyện Ba từ kỳ diệu của Sóc nhí](https://github.com/mamnonphulam/PhuLam-school/issues/28)    
     - [Truyện Ai cũng được chơi cùng](https://github.com/mamnonphulam/PhuLam-school/issues/29)     
     - [Truyện Chú sâu háu ăn](https://www.youtube.com/watch?v=dqYmF225Fcc)   
-    - [Truyện Cáo Thỏ Gà Trồng](https://www.youtube.com/watch?v=HVChdIfZjM4)                
+    - [Truyện Cáo Thỏ Gà Trồng](https://www.youtube.com/watch?v=HVChdIfZjM4)    
+    - [Truyện: Khu rừng bí ẩn](https://www.youtube.com/watch?v=J7BeWvyfLg0)  
+    - [Truyện: Củ cải trắng](https://www.youtube.com/watch?v=XuZ33VmTpX8&feature=youtu.be)     
+    - [Nhận biết khối cầu khối trụ](https://www.youtube.com/watch?v=66yuakIlb8M)  
+    - [Cấu tạo chữ e](https://www.youtube.com/watch?v=vocVe6e9wjc)           
     """)
 
 elif selected == "th":
