@@ -99,7 +99,16 @@ elif selected == "mn":
     - [Truyện: Khu rừng bí ẩn](https://www.youtube.com/watch?v=J7BeWvyfLg0)  
     - [Truyện: Củ cải trắng](https://www.youtube.com/watch?v=XuZ33VmTpX8&feature=youtu.be)     
     - [Nhận biết khối cầu khối trụ](https://www.youtube.com/watch?v=66yuakIlb8M)  
-    - [Cấu tạo chữ e](https://www.youtube.com/watch?v=vocVe6e9wjc)           
+    - [Cấu tạo chữ e](https://www.youtube.com/watch?v=vocVe6e9wjc)   
+    - [Vòng đời của loài bướm](https://www.youtube.com/watch?v=AtQeLaNDH3M)         
+    - [Phân biệt màu sắc toán](https://www.youtube.com/watch?v=MoeS33c8lyA)  
+    - [Bài hát chữ cái k](https://www.youtube.com/watch?v=qjLrMeimcWw) 
+    - [Bài hát số 8](https://www.youtube.com/watch?v=-Jd8_NgP6Xs&feature=youtu.be) 
+    - [Bài thơ Cây đào](https://www.youtube.com/watch?v=SUFIGLl-9w8&feature=youtu.be) 
+    - [Bài thơ Em yêu nhà em](https://www.youtube.com/watch?v=lsXge2TJHUk&feature=youtu.be) 
+    - [Truyện Cây táo](https://www.youtube.com/watch?v=Rih8HJPESQo) 
+    - [Truyện Chị ong nâu và em bé](https://www.youtube.com/watch?v=XNDqa4dBZq8)
+    - [Vòng đời của loài bướm](https://www.youtube.com/watch?v=stWCR1IyPEc)
     """)
 
 elif selected == "th":
