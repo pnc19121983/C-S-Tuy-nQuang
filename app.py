@@ -109,6 +109,12 @@ elif selected == "mn":
     - [Truyện Cây táo](https://www.youtube.com/watch?v=Rih8HJPESQo) 
     - [Truyện Chị ong nâu và em bé](https://www.youtube.com/watch?v=XNDqa4dBZq8)
     - [Vòng đời của loài bướm](https://www.youtube.com/watch?v=stWCR1IyPEc)
+    - [Bài thơ chữ cái o, ô, ơ](https://www.youtube.com/watch?v=c-o-iGx8sA8)
+    - [Bài thơ chữ cái a, ă, â](https://www.youtube.com/watch?v=wueSb9hTvro)
+    - [Truyện: Chú cuội và cây đa trên cung trăng](https://www.youtube.com/watch?v=PqOnnMh1ep8)
+    - [Truyện: Chuyến du lịch của chú gà trống choai](https://www.youtube.com/watch?v=8Kf3H1EjuFg)
+    - [Giáo dục trẻ niềm tự hào dân tộc](https://www.youtube.com/watch?v=lR7RjLS8jvI)
+    - [Bài thơ: Đồ dùng của bé](https://www.youtube.com/watch?v=FyP0R4vvLnE)
     """)
 
 elif selected == "th":
