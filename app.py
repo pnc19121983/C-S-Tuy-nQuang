@@ -115,6 +115,9 @@ elif selected == "mn":
     - [Truyện: Chuyến du lịch của chú gà trống choai](https://www.youtube.com/watch?v=8Kf3H1EjuFg)
     - [Giáo dục trẻ niềm tự hào dân tộc](https://www.youtube.com/watch?v=lR7RjLS8jvI)
     - [Bài thơ: Đồ dùng của bé](https://www.youtube.com/watch?v=FyP0R4vvLnE)
+    - [Bài thơ: Lễ hội Thành tuyên](https://www.youtube.com/watch?v=toQvGPcihx8)
+    - [Bài thơ: Rong và cá](https://www.youtube.com/watch?v=CeiKsIic4aI)
+    - [Truyện: Quả thị](https://www.youtube.com/watch?v=raQXtwuv1Fk)
     """)
 
 elif selected == "th":
