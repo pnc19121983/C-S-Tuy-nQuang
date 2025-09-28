@@ -54,6 +54,7 @@ if selected == "dungchung":
 - [Hướng dẫn xuất file word không bị lỗi công thức toán](https://drive.google.com/file/d/1VDJX4O23MgZNZ96N1ewXQQqaqm_Ae1ke/view?usp=sharing) 
 - [Hướng dẫn Tạo trò chơi củng cố kiến thức sau mỗi bài học](https://docs.google.com/document/d/1rk5SKak_MKnhiJ95rY9kJ5R-z_0ZWdMP/edit?usp=sharing&ouid=101989985365170136492&rtpof=true&sd=true) 
 - [Tạo hình 3D có thể zoom, xoay](https://drive.google.com/file/d/1Besc2TaKXbExLphq8QGRwjMfzESblTK3/view?usp=drive_link) 
+- [Chatbot tạo ảnh thẻ học sinh](https://aistudio.google.com/apps/drive/1NUTm0yDHEX4lBsAM293OEyfmHUWuPC-I?fbclid=IwY2xjawNEQJ9leHRuA2FlbQIxMABicmlkETEydk5Cang3OTV5Z3dpVmY1AR6VWBt4USB3U-0NvSIalXphIIrsx35xhUUow7PvKQqt8CbKZIX8fxsjR9YU-Q_aem_ob-7SpkS3ApWSvmMUoDDQA&showPreview=true&showAssistant=true)
 """)
 
 
@@ -118,6 +119,7 @@ elif selected == "mn":
     - [Bài thơ: Lễ hội Thành tuyên](https://www.youtube.com/watch?v=toQvGPcihx8)
     - [Bài thơ: Rong và cá](https://www.youtube.com/watch?v=CeiKsIic4aI)
     - [Truyện: Quả thị](https://www.youtube.com/watch?v=raQXtwuv1Fk)
+    - [ Ứng dụng tạo tranh tô màu cho các bé mầm non](https://aistudio.google.com/apps/drive/1Lz7TqbLl5bE60nm7fPd7Y-049t860odR?showPreview=true&showAssistant=true)
     """)
 
 elif selected == "th":
@@ -126,15 +128,24 @@ elif selected == "th":
     - [Chatbot hỗ trợ tạo đề kiểm tra định kì môn Toán](https://chatgpt.com/g/g-68217174ce408191b372e097cbb90c98-tq-toan-tieuhoc) 
     - [Chatbot hỗ trợ tạo đề kiểm tra định kì môn Tin học](https://chatgpt.com/g/g-684782cf55cc8191a6d81a16827294d0-tq-tin-hoc-tieu-hoc) 
     - [Chatbot hỗ trợ tạo đề kiểm tra định kì môn Lịch sử - Địa lí](https://chatgpt.com/g/g-683c1a3e83c88191ad0808c492d14c71-lich-su-dia-ly) 
+    - [Chuyển hình ảnh trong SGK thành video ](https://www.canva.com/design/DAGz5uviiso/tWWO8PeFqlOTBB_-ijTjfQ/edit) 
+    - [Chatbot hỗ trợ tạo đề kiểm tra định kì môn Toán lớp 4](https://chatgpt.com/g/g-68ca708d8c0881919e6c6334d0c21320-tao-de-kiem-tra-mon-toan-lop-4) 
+    - [Chatbot hỗ trợ tạo đề kiểm tra định kì môn Toán lớp 5](https://chatgpt.com/g/g-68cc9cceed888191be2ee01f2910ba3c-tao-de-kiem-tra-mon-toan-lop-5) 
+    - [Trò chơi học tập trên nền tảng Canva](https://gameosomayman.my.canva.site/dagxlvtfz-o) 
+    - [Xây dựng bộ trò chơi khởi động các môn học bằng AI](https://drive.google.com/file/d/1Z1zd4gKtpeR_AKrFsUDStCfv8NSJmv3K/view) 
+    - [Chatbot hỗ trợ xây dựng KHBG Tin học](https://chatgpt.com/g/g-68ca911197008191bac90cdba85f593f-tro-ly-soan-khbd-mon-tin-hoc-tieu-hoc) 
+    - [Chatbot hỗ trợ xây dựng KHBG Âm nhạc](https://gemini.google.com/gem/df4aa386946f?usp=sharing) 
     """)
 
 elif selected == "thcs":
     st.header("📙 Dạy học cấp THCS")
     st.markdown("""
     - [iTeX: Phần mềm tự động tạo câu hỏi ngẫu nhiên môn Toán](https://www.youtube.com/@iTeX-Teams)  
-    - ..........
-    - ..........  
-    - .......... 
+    - [Tạo bảng theo dõi thi đua học sinh bằng AI ](https://docs.google.com/document/d/1nD1kp53I18KCCrhS1CHHMTlx2m66iQ8MtxX4fzIy7nQ/edit?usp=drive_link)  
+    - [Hướng dẫn tạo slide bài giảng tự động bằng Gamma AI](https://drive.google.com/file/d/1vOjJZPHGzg4V67WJ27EM2EwEULGNKqnd/view) 
+    - [Ứng dụng AI trong soạn bài và thiết kế nội dung học tập](https://docs.google.com/document/d/1oZwYV21kgAuw5ufkrNJrzkV2_NdQvPyQ/edit) 
+    - [Hướng dẫn tạo Trợ lý AI tự động hóa bài soạn trên Gemini](https://docs.google.com/document/d/1bfJZauJgjGoTBvZ7wW0CQrCdn2qgX-vK/edit#heading=h.gj56e8mcine0) 
+    - [Hướng dẫn tạo Chatbot hỗ trợ xây dựng kế hoạch bài dạy môn ngữ văn 8](https://docs.google.com/document/d/1H4ZsYL9qaBgmNlCkB4Ec0E8a8YglDQeHlZ83B6x9sNE/edit?tab=t.0) 
     """)
 
 elif selected == "thpt":
@@ -146,6 +157,8 @@ elif selected == "thpt":
     - [Chatbot: Học sinh giỏi môn Toán](https://chatgpt.com/g/g-688c7ff0165081919d6ebf35f7c7540b-on-luyen-hoc-sinh-gioi-quoc-gia-toan)    
     - [Chatbot: Học sinh giỏi môn Vật lí](https://chatgpt.com/g/g-688c88527ff081918a9a747c0597212f-tro-ly-vat-ly-chuyen-sau-bdhsgqg)  
     - [Chatbot: Học sinh giỏi môn Sinh học](https://chatgpt.com/g/g-688c894c97b48191bca4aaf2aef38510-sinh-hoc-hsg-quoc-gia-ai-tutor) 
+    - [Hướng dẫn sử dụng Google AI Studio trong soạn và thiết kế nội dung học tập](https://drive.google.com/file/d/1EiJX-Gt1o0fTY4UHgBEx63h8fHgtjyWp/view) 
+    - [Tài liệu hướng dẫn khai thác và ứng dụng NotebookLM ](https://docs.google.com/document/d/1LQdDnU_jhZ2SPy-NitOlYEugZSJzytFs/edit) 
     """)
 
 elif selected is None:
