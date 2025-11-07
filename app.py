@@ -152,6 +152,11 @@ elif selected == "mn":
         {"icon": "▶️", "label": "Chủ đề: Đồ dùng đồ chơi yêu thích của bé", "url": "https://www.youtube.com/watch?v=w89DgVvUaGM"},
         {"icon": "▶️", "label": "KPKH: Ích lợi thực phẩm (Bột đường, chất béo)", "url": "https://youtu.be/NuA_nrNARFI"},
         {"icon": "▶️", "label": "KPKH: Ích lợi thực phẩm (Chất đạm, vitamin)", "url": "https://youtu.be/I5hCvGIeZLE"},
+        {"icon": "▶️", "label": "Bài thơ: Nắng bốn mùa", "url": "https://youtu.be/eT7VifAyNdw"},
+        {"icon": "▶️", "label": "Múa: Mẹ yêu ơi", "url": "https://youtu.be/Q9O_M3WSekg"},
+        {"icon": "▶️", "label": "Bài thơ: Cô dạy", "url": "https://youtu.be/VovjfBvq_z4"},
+        {"icon": "▶️", "label": "Bài hát: Chú voi con ở bản đôn", "url": "https://youtu.be/ISjLadS-sT4"},
+        {"icon": "▶️", "label": "Công tác đảm bảo bữa ăn bán trú cho trẻ Trường MN Hương Sen", "url": "https://youtu.be/BAeCvRJKFos"},
     ]
 
     NUM_COLUMNS = 3 # Giữ 3 cột để hiển thị dưới dạng lưới
