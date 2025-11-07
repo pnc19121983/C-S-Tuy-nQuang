@@ -45,8 +45,8 @@ if selected == "dungchung":
 
     # Danh sách các liên kết được chuyển đổi sang định dạng Python kèm icon
     dungchung_links = [
-        {"icon": "🤖", "label": "Chatbot: Tìm hiểu các Thông tư 09-13/2025", "url": "https://chatgpt.com/g/g-687f7c5a432081919eb9bbec42354b31-tim-hieu-thong-tu-09-10-11-12-13-2025-cua-bo-gddt"},
-        {"icon": "📄", "label": "Tài liệu hướng dẫn GV tích hợp AI", "url": "https://byvn.net/pqqR"},
+        {"icon": "▶️", "label": "Chatbot: Tìm hiểu các Thông tư 09-13/2025", "url": "https://chatgpt.com/g/g-687f7c5a432081919eb9bbec42354b31-tim-hieu-thong-tu-09-10-11-12-13-2025-cua-bo-gddt"},
+        {"icon": "📁", "label": "Tài liệu hướng dẫn GV tích hợp AI", "url": "https://byvn.net/pqqR"},
         {"icon": "▶️", "label": "Video bài giảng “Làm chủ AI - Super Teacher”", "url": "https://www.youtube.com/watch?v=5l4Uis5xzvc"},
         {"icon": "▶️", "label": "Ứng dụng AI tạo ảnh và video bài giảng", "url": "https://www.youtube.com/watch?v=uQ6URlXLGQA&list=PLKJ7b9uOx27YrBfRzC-Wz6GpvVmZlI-hz&index=4"},
         {"icon": "▶️", "label": "Ứng dụng AI trong giảng dạy Đại học RMIT", "url": "https://www.youtube.com/watch?v=4f0kIVRZVn0&t=4950s"},
@@ -56,7 +56,7 @@ if selected == "dungchung":
         {"icon": "📁", "label": "Hướng dẫn xuất file word không lỗi công thức toán", "url": "https://drive.google.com/file/d/1VDJX4O23MgZNZ96N1ewXQQqaqm_Ae1ke/view?usp=sharing"},
         {"icon": "📁", "label": "Hướng dẫn Tạo trò chơi củng cố kiến thức", "url": "https://docs.google.com/document/d/1rk5SKak_MKnhiJ95rY9kJ5R-z_0ZWdMP/edit?usp=sharing&ouid=101989985365170136492&rtpof=true&sd=true"},
         {"icon": "🌐", "label": "Tạo hình 3D có thể zoom, xoay", "url": "https://drive.google.com/file/d/1Besc2TaKXbExLphq8QGRwjMfzESblTK3/view?usp=drive_link"},
-        {"icon": "🤖", "label": "Chatbot tạo ảnh thẻ học sinh", "url": "https://aistudio.google.com/apps/drive/1NUTm0yDHEX4lBsAM293OEyfmHUWuPC-I?fbclid=IwY2xjawNEQJ9leHRuA2FlbQIxMABicmlkETEydk5Cang3OTV5Z3dpVmY1AR6VWBt4USB3U-0NvSIalXphIIrsx35xhUUow7PvKQqt8CbKZIX8fxsjR9YU-Q_aem_ob-7SpkS3ApWSvmMUoDDQA&showPreview=true&showAssistant=true"},
+        {"icon": "▶️", "label": "Chatbot tạo ảnh thẻ học sinh", "url": "https://aistudio.google.com/apps/drive/1NUTm0yDHEX4lBsAM293OEyfmHUWuPC-I?fbclid=IwY2xjawNEQJ9leHRuA2FlbQIxMABicmlkETEydk5Cang3OTV5Z3dpVmY1AR6VWBt4USB3U-0NvSIalXphIIrsx35xhUUow7PvKQqt8CbKZIX8fxsjR9YU-Q_aem_ob-7SpkS3ApWSvmMUoDDQA&showPreview=true&showAssistant=true"},
     ]
 
     NUM_COLUMNS = 3  # Lưới 2 cột
