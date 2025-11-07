@@ -87,10 +87,10 @@ elif selected == "mn":
 
     # Danh sách các liên kết được chuyển đổi sang định dạng Python kèm icon
     mn_links = [
-        {"icon": "🤖", "label": "Chatbot: Cô giáo mầm non", "url": "https://notebooklm.google.com/notebook/44149ea2-baf4-468b-8f70-fcdc48cd407c"},
-        {"icon": "🤖", "label": "Chatbot: Hiệu trưởng mầm non", "url": "https://notebooklm.google.com/notebook/72ffe0d3-88cd-4eec-8758-dde7b112393b"},
-        {"icon": "🤖", "label": "Chatbot: Trợ lý phương pháp dạy học", "url": "https://chatgpt.com/g/g-68479847d1a08191aeda9b517a389605-tro-ly-ve-phuong-phap-day-hoc"},
-        {"icon": "🤖", "label": "Chatbot: Trợ lý soạn thảo văn bản", "url": "https://chatgpt.com/g/g-6846ecf00fac8191b427451f7e55437e-tro-ly-soan-thao-van-ban"},
+        {"icon": "▶️", "label": "Chatbot: Cô giáo mầm non", "url": "https://notebooklm.google.com/notebook/44149ea2-baf4-468b-8f70-fcdc48cd407c"},
+        {"icon": "▶️", "label": "Chatbot: Hiệu trưởng mầm non", "url": "https://notebooklm.google.com/notebook/72ffe0d3-88cd-4eec-8758-dde7b112393b"},
+        {"icon": "▶️", "label": "Chatbot: Trợ lý phương pháp dạy học", "url": "https://chatgpt.com/g/g-68479847d1a08191aeda9b517a389605-tro-ly-ve-phuong-phap-day-hoc"},
+        {"icon": "▶️", "label": "Chatbot: Trợ lý soạn thảo văn bản", "url": "https://chatgpt.com/g/g-6846ecf00fac8191b427451f7e55437e-tro-ly-soan-thao-van-ban"},
         {"icon": "▶️", "label": "Kỹ năng chung tay bảo vệ môi trường", "url": "https://www.youtube.com/watch?v=OAi-52MPGN4&feature=youtu.be"},
         {"icon": "▶️", "label": "Kỹ năng Dũng cảm nói ra sự thật", "url": "https://www.youtube.com/watch?v=aEhupj_3KYk"},
         {"icon": "▶️", "label": "Làm quen chũ cái o", "url": "https://www.youtube.com/watch?v=KRx1IubT2_Y&pp=0gcJCa0JAYcqIYzv"},
@@ -167,16 +167,16 @@ elif selected == "th":
     st.header("📘 Dạy học cấp Tiểu học")
     
     th_links = [
-        {"icon": "🤖", "label": "Chatbot tạo đề kiểm tra Toán", "url": "https://chatgpt.com/g/g-68217174ce408191b372e097cbb90c98-tq-toan-tieuhoc"}, 
-        {"icon": "🤖", "label": "Chatbot tạo đề kiểm tra Tin học", "url": "https://chatgpt.com/g/g-684782cf55cc8191a6d81a16827294d0-tq-tin-hoc-tieu-hoc"}, 
-        {"icon": "🤖", "label": "Chatbot tạo đề kiểm tra Lịch sử - Địa lí", "url": "https://chatgpt.com/g/g-683c1a3e83c88191ad0808c492d14c71-lich-su-dia-ly"}, 
+        {"icon": "▶️", "label": "Chatbot tạo đề kiểm tra Toán", "url": "https://chatgpt.com/g/g-68217174ce408191b372e097cbb90c98-tq-toan-tieuhoc"}, 
+        {"icon": "▶️", "label": "Chatbot tạo đề kiểm tra Tin học", "url": "https://chatgpt.com/g/g-684782cf55cc8191a6d81a16827294d0-tq-tin-hoc-tieu-hoc"}, 
+        {"icon": "▶️", "label": "Chatbot tạo đề kiểm tra Lịch sử - Địa lí", "url": "https://chatgpt.com/g/g-683c1a3e83c88191ad0808c492d14c71-lich-su-dia-ly"}, 
         {"icon": "▶️", "label": "Chuyển hình ảnh trong SGK thành video (Canva)", "url": "https://www.canva.com/design/DAGz5uviiso/tWWO8PeFqlOTBB_-ijTjfQ/edit"}, 
-        {"icon": "🤖", "label": "Chatbot tạo đề kiểm tra Toán lớp 4", "url": "https://chatgpt.com/g/g-68ca708d8c0881919e6c6334d0c21320-tao-de-kiem-tra-mon-toan-lop-4"}, 
-        {"icon": "🤖", "label": "Chatbot tạo đề kiểm tra Toán lớp 5", "url": "https://chatgpt.com/g/g-68cc9cceed888191be2ee01f2910ba3c-tao-de-kiem-tra-mon-toan-lop-5"}, 
+        {"icon": "▶️", "label": "Chatbot tạo đề kiểm tra Toán lớp 4", "url": "https://chatgpt.com/g/g-68ca708d8c0881919e6c6334d0c21320-tao-de-kiem-tra-mon-toan-lop-4"}, 
+        {"icon": "▶️", "label": "Chatbot tạo đề kiểm tra Toán lớp 5", "url": "https://chatgpt.com/g/g-68cc9cceed888191be2ee01f2910ba3c-tao-de-kiem-tra-mon-toan-lop-5"}, 
         {"icon": "🎮", "label": "Trò chơi học tập trên nền tảng Canva", "url": "https://gameosomayman.my.canva.site/dagxlvtfz-o"}, 
         {"icon": "📁", "label": "Xây dựng bộ trò chơi khởi động bằng AI", "url": "https://drive.google.com/file/d/1Z1zd4gKtpeR_AKrFsUDStCfv8NSJmv3K/view"}, 
-        {"icon": "🤖", "label": "Chatbot hỗ trợ xây dựng KHBG Tin học", "url": "https://chatgpt.com/g/g-68ca911197008191bac90cdba85f593f-tro-ly-soan-khbd-mon-tin-hoc-tieu-hoc"}, 
-        {"icon": "🤖", "label": "Chatbot hỗ trợ xây dựng KHBG Âm nhạc (Gemini)", "url": "https://gemini.google.com/gem/df4aa386946f?usp=sharing"}, 
+        {"icon": "▶️", "label": "Chatbot hỗ trợ xây dựng KHBG Tin học", "url": "https://chatgpt.com/g/g-68ca911197008191bac90cdba85f593f-tro-ly-soan-khbd-mon-tin-hoc-tieu-hoc"}, 
+        {"icon": "▶️", "label": "Chatbot hỗ trợ xây dựng KHBG Âm nhạc (Gemini)", "url": "https://gemini.google.com/gem/df4aa386946f?usp=sharing"}, 
     ]
 
     NUM_COLUMNS = 3
@@ -195,9 +195,9 @@ elif selected == "thcs":
         {"icon": "▶️", "label": "iTeX: Phần mềm tự động tạo câu hỏi Toán", "url": "https://www.youtube.com/@iTeX-Teams"}, 
         {"icon": "📁", "label": "Tạo bảng theo dõi thi đua học sinh bằng AI", "url": "https://docs.google.com/document/d/1nD1kp53I18KCCrhS1CHHMTlx2m66iQ8MtxX4fzIy7nQ/edit?usp=drive_link"}, 
         {"icon": "📁", "label": "Hướng dẫn tạo slide bài giảng tự động Gamma AI", "url": "https://drive.google.com/file/d/1vOjJZPHGzg4V67WJ27EM2EwEULGNKqnd/view"}, 
-        {"icon": "📄", "label": "Ứng dụng AI trong soạn bài và thiết kế nội dung", "url": "https://docs.google.com/document/d/1oZwYV21kgAuw5ufkrNJrzkV2_NdQvPyQ/edit"}, 
-        {"icon": "🤖", "label": "Hướng dẫn tạo Trợ lý AI tự động hóa bài soạn trên Gemini", "url": "https://docs.google.com/document/d/1bfJZauJgjGoTBvZ7wW0CQrCdn2qgX-vK/edit#heading=h.gj56e8mcine0"}, 
-        {"icon": "🤖", "label": "Hướng dẫn tạo Chatbot xây dựng KHBG Ngữ văn 8", "url": "https://docs.google.com/document/d/1H4ZsYL9qaBgmNlCkB4Ec0E8a8YglDQeHlZ83B6x9sNE/edit?tab=t.0"}, 
+        {"icon": "📁", "label": "Ứng dụng AI trong soạn bài và thiết kế nội dung", "url": "https://docs.google.com/document/d/1oZwYV21kgAuw5ufkrNJrzkV2_NdQvPyQ/edit"}, 
+        {"icon": "▶️", "label": "Hướng dẫn tạo Trợ lý AI tự động hóa bài soạn trên Gemini", "url": "https://docs.google.com/document/d/1bfJZauJgjGoTBvZ7wW0CQrCdn2qgX-vK/edit#heading=h.gj56e8mcine0"}, 
+        {"icon": "▶️", "label": "Hướng dẫn tạo Chatbot xây dựng KHBG Ngữ văn 8", "url": "https://docs.google.com/document/d/1H4ZsYL9qaBgmNlCkB4Ec0E8a8YglDQeHlZ83B6x9sNE/edit?tab=t.0"}, 
     ]
 
     NUM_COLUMNS = 3
@@ -213,13 +213,13 @@ elif selected == "thpt":
     
     thpt_links = [
         {"icon": "▶️", "label": "iTeX: Phần mềm tự động tạo câu hỏi Toán", "url": "https://www.youtube.com/@iTeX-Teams"}, 
-        {"icon": "🤖", "label": "Chatbot: Học sinh giỏi môn Tin học", "url": "https://chatgpt.com/g/g-688b68637db88191a7537adc8b4fe755-tro-ly-tin-hoc-hsg"}, 
-        {"icon": "🤖", "label": "Chatbot: Học sinh giỏi môn Hóa học", "url": "https://chatgpt.com/g/g-688c16e1f338819198735dbadab0bb0b-tro-ly-hoa-hoc-chuyen-sau"}, 
-        {"icon": "🤖", "label": "Chatbot: Học sinh giỏi môn Toán", "url": "https://chatgpt.com/g/g-688c7ff0165081919d6ebf35f7c7540b-on-luyen-hoc-sinh-gioi-quoc-gia-toan"}, 
-        {"icon": "🤖", "label": "Chatbot: Học sinh giỏi môn Vật lí", "url": "https://chatgpt.com/g/g-688c88527ff081918a9a747c0597212f-tro-ly-vat-ly-chuyen-sau-bdhsgqg"}, 
-        {"icon": "🤖", "label": "Chatbot: Học sinh giỏi môn Sinh học", "url": "https://chatgpt.com/g/g-688c894c97b48191bca4aaf2aef38510-sinh-hoc-hsg-quoc-gia-ai-tutor"}, 
+        {"icon": "▶️", "label": "Chatbot: Học sinh giỏi môn Tin học", "url": "https://chatgpt.com/g/g-688b68637db88191a7537adc8b4fe755-tro-ly-tin-hoc-hsg"}, 
+        {"icon": "▶️", "label": "Chatbot: Học sinh giỏi môn Hóa học", "url": "https://chatgpt.com/g/g-688c16e1f338819198735dbadab0bb0b-tro-ly-hoa-hoc-chuyen-sau"}, 
+        {"icon": "▶️", "label": "Chatbot: Học sinh giỏi môn Toán", "url": "https://chatgpt.com/g/g-688c7ff0165081919d6ebf35f7c7540b-on-luyen-hoc-sinh-gioi-quoc-gia-toan"}, 
+        {"icon": "▶️", "label": "Chatbot: Học sinh giỏi môn Vật lí", "url": "https://chatgpt.com/g/g-688c88527ff081918a9a747c0597212f-tro-ly-vat-ly-chuyen-sau-bdhsgqg"}, 
+        {"icon": "▶️", "label": "Chatbot: Học sinh giỏi môn Sinh học", "url": "https://chatgpt.com/g/g-688c894c97b48191bca4aaf2aef38510-sinh-hoc-hsg-quoc-gia-ai-tutor"}, 
         {"icon": "📁", "label": "Hướng dẫn sử dụng Google AI Studio", "url": "https://drive.google.com/file/d/1EiJX-Gt1o0fTY4UHgBEx63h8fHgtjyWp/view"}, 
-        {"icon": "📄", "label": "Tài liệu hướng dẫn khai thác NotebookLM", "url": "https://docs.google.com/document/d/1LQdDnU_jhZ2SPy-NitOlYEugZSJzytFs/edit"}, 
+        {"icon": "📁", "label": "Tài liệu hướng dẫn khai thác NotebookLM", "url": "https://docs.google.com/document/d/1LQdDnU_jhZ2SPy-NitOlYEugZSJzytFs/edit"}, 
     ]
 
     NUM_COLUMNS = 3
