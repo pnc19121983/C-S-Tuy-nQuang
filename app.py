@@ -225,6 +225,8 @@ elif selected == "thpt":
         {"icon": "▶️", "label": "Chatbot: Học sinh giỏi môn Sinh học", "url": "https://chatgpt.com/g/g-688c894c97b48191bca4aaf2aef38510-sinh-hoc-hsg-quoc-gia-ai-tutor"}, 
         {"icon": "📁", "label": "Hướng dẫn sử dụng Google AI Studio", "url": "https://drive.google.com/file/d/1EiJX-Gt1o0fTY4UHgBEx63h8fHgtjyWp/view"}, 
         {"icon": "📁", "label": "Tài liệu hướng dẫn khai thác NotebookLM", "url": "https://docs.google.com/document/d/1LQdDnU_jhZ2SPy-NitOlYEugZSJzytFs/edit"}, 
+        {"icon": "▶️", "label": "Tạo trờ chơi tương tác với Canva AI", "url": "https://www.youtube.com/watch?v=gosdE5sHfw8"}, 
+        {"icon": "▶️", "label": "Hướng dẫn sử dụng NotebookLM", "url": "https://www.youtube.com/watch?v=eWSRK7Ug01s"}, 
     ]
 
     NUM_COLUMNS = 3
