@@ -214,6 +214,7 @@ elif selected == "thcs":
         {"icon": "▶️", "label": "Hướng dẫn tạo Chatbot xây dựng KHBG Ngữ văn 8", "url": "https://docs.google.com/document/d/1H4ZsYL9qaBgmNlCkB4Ec0E8a8YglDQeHlZ83B6x9sNE/edit?tab=t.0"}, 
         {"icon": "▶️", "label": "Sách nói Di sản văn hóa dân tộc Tày Dao năm 2025", "url": "https://remarkable-centaur-ea5b4b.netlify.app/"}, 
         {"icon": "▶️", "label": "Chatbot ôn tập tiếng anh 6: unit 1-3", "url": "https://gemini.google.com/share/ac9f88d30fef"}, 
+        {"icon": "▶️", "label": "Công cụ vẽ đồ thị tương tác", "url": "https://gemini.google.com/share/2ff07d820508"},
     ]
 
     NUM_COLUMNS = 3
