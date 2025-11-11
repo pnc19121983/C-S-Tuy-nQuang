@@ -182,6 +182,15 @@ elif selected == "th":
         {"icon": "📁", "label": "Xây dựng bộ trò chơi khởi động bằng AI", "url": "https://drive.google.com/file/d/1Z1zd4gKtpeR_AKrFsUDStCfv8NSJmv3K/view"}, 
         {"icon": "▶️", "label": "Chatbot hỗ trợ xây dựng KHBG Tin học", "url": "https://chatgpt.com/g/g-68ca911197008191bac90cdba85f593f-tro-ly-soan-khbd-mon-tin-hoc-tieu-hoc"}, 
         {"icon": "▶️", "label": "Chatbot hỗ trợ xây dựng KHBG Âm nhạc (Gemini)", "url": "https://gemini.google.com/gem/df4aa386946f?usp=sharing"}, 
+        {"icon": "▶️", "label": "Chatbot hỗ trợ học sinh học tập", "url": "https://ndduy100592.github.io/tieuhoc/"}, 
+        {"icon": "▶️", "label": "Nhận xét,đánh giá thường xuyên, định kỳ môn Âm nhạc cấp Tiểu học:", "url": "https://notebooklm.google.com/notebook/85efc050-85c1-41a8-bb6f-b88cd81049ba?authuser=1"}, 
+        {"icon": "▶️", "label": "Nhận xét,đánh giá thường xuyên, định kỳ môn Tin học cấp Tiểu học:", "url": "https://notebooklm.google.com/notebook/ae16ce5e-9bc1-4ea8-994b-454b5a78eb7a?authuser=1"}, 
+        {"icon": "▶️", "label": "Chatbot soạn giáo án môn Tin học lớp 3", "url": "https://gemini.google.com/gem/e172aa044d29?usp=sharing"}, 
+        {"icon": "▶️", "label": "Chatbot soạn giáo án môn Tin học lớp 4", "url": "https://gemini.google.com/gem/1LrrYMhn2yvcOKPG3oe_sWtzaatp2PhFP?usp=sharing"}, 
+        {"icon": "▶️", "label": "Chatbot soạn giáo án môn Tin học lớp 5", "url": "https://gemini.google.com/gem/1G7vG2Psr9MMKGM22G98_Acse6E2xDoxn?usp=sharing"}, 
+        {"icon": "▶️", "label": "Chatbot soạn giáo án môn Âm nhạc lớp 3", "url": "https://gemini.google.com/gem/1v87O1ajZR4sBELcKwHIZNdJyCz8BWjSP?usp=sharing"}, 
+        {"icon": "▶️", "label": "Chatbot soạn giáo án môn Âm nhạc lớp 4", "url": "https://gemini.google.com/gem/1i_2m41Wc_T0iyn3p-uBjVSCr9JGvyZdc?usp=sharing"}, 
+        {"icon": "▶️", "label": "Chatbot soạn giáo án môn Âm nhạc lớp 5", "url": "https://gemini.google.com/gem/1QRS4gmTXXemJzJkhhr-rkg4m6tlhex0E?usp=sharing"}, 
     ]
 
     NUM_COLUMNS = 3
@@ -203,6 +212,8 @@ elif selected == "thcs":
         {"icon": "📁", "label": "Ứng dụng AI trong soạn bài và thiết kế nội dung", "url": "https://docs.google.com/document/d/1oZwYV21kgAuw5ufkrNJrzkV2_NdQvPyQ/edit"}, 
         {"icon": "▶️", "label": "Hướng dẫn tạo Trợ lý AI tự động hóa bài soạn trên Gemini", "url": "https://docs.google.com/document/d/1bfJZauJgjGoTBvZ7wW0CQrCdn2qgX-vK/edit#heading=h.gj56e8mcine0"}, 
         {"icon": "▶️", "label": "Hướng dẫn tạo Chatbot xây dựng KHBG Ngữ văn 8", "url": "https://docs.google.com/document/d/1H4ZsYL9qaBgmNlCkB4Ec0E8a8YglDQeHlZ83B6x9sNE/edit?tab=t.0"}, 
+        {"icon": "▶️", "label": "Sách nói Di sản văn hóa dân tộc Tày Dao năm 2025", "url": "https://remarkable-centaur-ea5b4b.netlify.app/"}, 
+        {"icon": "▶️", "label": "Chatbot ôn tập tiếng anh 6: unit 1-3", "url": "https://gemini.google.com/share/ac9f88d30fef"}, 
     ]
 
     NUM_COLUMNS = 3
