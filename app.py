@@ -179,6 +179,20 @@ elif selected == "mn":
         {"icon": "▶️", "label": "Bài giảng Thơ Trăng sáng - 18-24 tháng - MN Hoa Phượng", "url": "https://youtu.be/MNVClsXYnoU"},
         {"icon": "▶️", "label": "Tiết dạy NBPB Màu xanh - Màu đỏ - 25-36 tháng - MN Hoa Phượng", "url": "https://docs.google.com/presentation/d/1jCpfNWkXvJF03nNk_YbfAu6WpsfwuS76/edit?usp=drive_link&ouid=110455070676402034101&rtpof=true&sd=true"},
         {"icon": "▶️", "label": "Bài giảng TD Bước qua vật cản - 24 -36 tháng - MN Hoa Phượng", "url": "https://docs.google.com/presentation/d/11PnzvLTh5nMGYKxyEQS0HT159vDRW8sH/edit?usp=sharing&ouid=110455070676402034101&rtpof=true&sd=true"},
+        {"icon": "▶️", "label": "Hoạt động ngoại khóa: Thăm quan xưởng may trang phục dân tộc Hiển Phan", "url": "https://youtu.be/RbolqEaJv_8"},
+        {"icon": "▶️", "label": "Các bé 5 - 6 tuổi C2 tri ân các chú bộ đội nhân ngày 22/12", "url": "https://youtu.be/yh39OwUSygk"},
+        {"icon": "▶️", "label": "nội dung bài hát: Chú bộ đội và cơn mưa", "url": "https://youtu.be/N_6E_y4kxt0"},
+        {"icon": "▶️", "label": "Nội dung bài hát: Cháu thương chú bộ đội", "url": "https://youtu.be/q9_vQgt-Nqk"},
+        {"icon": "▶️", "label": "Hoạt động: Nhận biết gọi tên hình tam giác, hình chữ nhật_Gv Nguyễn Thu Trang, lớp 3-4 tuổi", "url": "https://youtu.be/pMkz3lv4MLs"},
+        {"icon": "▶️", "label": "Hoạt động trải nghiệm “Khám phá, tìm hiểu một số nghề địa phương", "url": "https://youtu.be/eUQUeqTgOCo"},
+        {"icon": "▶️", "label": "Câu truyện “Cậu bé Tích Chu”", "url": "https://youtu.be/tvokwpYn2TY"},
+        {"icon": "▶️", "label": "Bài hát Hình học vui nhộn", "url": "https://youtu.be/DJrlDCdtK7k"},
+        {"icon": "▶️", "label": "Truyện Cá chép con", "url": "https://youtu.be/fhKJyxMuAP8"},
+        {"icon": "▶️", "label": "Hoạt động ngoại khóa Thực hành kỹ năng PCCC", "url": "https://youtu.be/OFMngDaq4D4"},
+        {"icon": "▶️", "label": "Thơ: Bạn mới. (MN Tú Thịnh)", "url": "https://github.com/MNTuThinhSDTQ/MNTT2025/issues/3"},
+        {"icon": "▶️", "label": "Thơ: Giờ chơi. (MN Tú Thịnh)", "url": "https://github.com/MNTuThinhSDTQ/MNTT2025/issues/4"},
+        {"icon": "▶️", "label": "Bài hát: Gà trống mèo con và cún con. (MN Tú Thịnh)", "url": "https://github.com/MNTuThinhSDTQ/MNTT2025/issues/2"},
+        {"icon": "▶️", "label": "Truyện: Vì sao Thỏ cụt đuôi (MN Tú Thịnh)", "url": "https://youtu.be/uiwgjJfktwk?si=lYoVI5bRCc-jzX-T"},
     ]
 
     NUM_COLUMNS = 3 # Giữ 3 cột để hiển thị dưới dạng lưới
