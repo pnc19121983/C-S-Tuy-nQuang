@@ -193,6 +193,14 @@ elif selected == "mn":
         {"icon": "▶️", "label": "Thơ: Giờ chơi. (MN Tú Thịnh)", "url": "https://github.com/MNTuThinhSDTQ/MNTT2025/issues/4"},
         {"icon": "▶️", "label": "Bài hát: Gà trống mèo con và cún con. (MN Tú Thịnh)", "url": "https://github.com/MNTuThinhSDTQ/MNTT2025/issues/2"},
         {"icon": "▶️", "label": "Truyện: Vì sao Thỏ cụt đuôi (MN Tú Thịnh)", "url": "https://youtu.be/uiwgjJfktwk?si=lYoVI5bRCc-jzX-T"},
+        {"icon": "▶️", "label": "Thực đơn của bé", "url": "https://youtu.be/Jdx2-BBP7zY"},
+        {"icon": "▶️", "label": "Chung tay phòng chống bệnh chân-tay-miệng", "url": "https://youtu.be/k-tHLLxdkDA"},
+        {"icon": "▶️", "label": "Muá: Âm vang núi rừng, dân tộc Dao", "url": "https://youtu.be/pvUa1ZfW80I"},
+        {"icon": "▶️", "label": "HĐTN: Tham quan trường tiểu học của các bé 5-6 tuổi", "url": "https://youtu.be/kax6CodLtLI"},
+        {"icon": "▶️", "label": "HĐNK: Bé với an toàn giao thông", "url": "https://youtu.be/e4A-vGC0iwc"},
+        {"icon": "▶️", "label": "Thực hành: Tham gia giao thông trên ngã tư đường phố", "url": "https://youtu.be/ivAvZ_jCrgA"},
+        {"icon": "▶️", "label": "Ngày hội non sông", "url": "https://youtu.be/6KB6m_H3csk"},
+        {"icon": "▶️", "label": "HĐNK: Thực hành kỹ năng PCCC", "url": "https://youtu.be/OFMngDaq4D4"},
     ]
 
     NUM_COLUMNS = 3 # Giữ 3 cột để hiển thị dưới dạng lưới
